@@ -1,3 +1,4 @@
+![logo](https://github.com/devraj-mondal/devraj-mondal/blob/main/Your%20paragraph%20text.gif)
 <h1 align="center">Hi 👋, I'm Devraj Mondal</h1>
 <h3 align="center">I assist in unleashing the potential of data for informed decision-making</h3>
 <img align="right"alt="data analytics"width="400"src="https://miro.medium.com/v2/resize:fit:960/1*cx7xObzA-o4lFUl_sGn5Bw.gif"
