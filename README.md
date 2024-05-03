@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-mondal" /> </p>
 
-<p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif" alt="Ms-Excel" width="40" height="40"/> </a> </p>
-Excel Project: (Sales Analytics Report) (https://github.com/devraj-mondal/-Excel-Sales-Analytics-Report)
+<p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif" alt="Ms-Excel" width="40" height="40"/> </a> EXCEL PROJECTS</p>
+ (Sales Analytics Report) (https://github.com/devraj-mondal/-Excel-Sales-Analytics-Report)
 
-Excel project: (Road-Accident-Dashboard-Using-Ms-Excel) (https://github.com/devraj-mondal/Road-Accident-Dashboard-Using-Ms-Excel)
+ (Road-Accident-Dashboard-Using-Ms-Excel) (https://github.com/devraj-mondal/Road-Accident-Dashboard-Using-Ms-Excel)
 
- Excel project: (Project-Priority-Matrix) (https://github.com/devraj-mondal/Project-Priority-Matrix)
+ (Project-Priority-Matrix) (https://github.com/devraj-mondal/Project-Priority-Matrix)
  
- Excel project: (Scenario-Planning-tool-report) (https://github.com/devraj-mondal/Scenario-Planning-tool-report)
+ (Scenario-Planning-tool-report) (https://github.com/devraj-mondal/Scenario-Planning-tool-report)
  
  
- <p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" alt="PowerBI" width="40" height="40"/> </a> </p> PowerBi project: (Power-Bi-BI-360-project)
+ <p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" alt="PowerBI" width="40" height="40"/> </a>POWER BI PROJECTS </p> (BI-360-project)
  (https://github.com/devraj-mondal/Power-Bi-BI-360-project)
 
  
