@@ -24,7 +24,9 @@
  2. Atliq Grand Hospitality Project
 (https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project)
 
-<p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.SQL.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" alt="PowerBI" width="40" height="40"/> </a>SQL PROJECTS </p> 
+<p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.SQL.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*eJFj0s7wgJVW030Q.gif" alt="SQL" width="40" height="40"/> </a> </p> </a>SQL PROJECTS </p> 
+1.Consumer Goods Ad-HOC Insights
+(https://github.com/devraj-mondal/Consumer-Ad-Hoc-Insights)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 - My Linkedin [https://www.linkedin.com/in/devrajmondal5/](https://www.linkedin.com/in/devrajmondal5/)
