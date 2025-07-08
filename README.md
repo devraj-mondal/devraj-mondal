@@ -7,16 +7,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-mondal" /> </p>
 
 <p align="left"> <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/489311/screenshots/6691380/excel-icons-animation.gif" alt="Ms-Excel" width="40" height="40"/> </a> EXCEL PROJECTS</p>
+
 1.Sales Analytics Report-(https://github.com/devraj-mondal/-Excel-Sales-Analytics-Report)
 
- 2.Road-Accident-Dashboard-Using-Ms-Excel-(https://github.com/devraj-mondal/Road-Accident-Dashboard-Using-Ms-Excel)
+2.Road-Accident-Dashboard-Using-Ms-Excel-(https://github.com/devraj-mondal/Road-Accident-Dashboard-Using-Ms-Excel)
 
- 3.Project-Priority-Matrix- (https://github.com/devraj-mondal/Project-Priority-Matrix)
+3.Project-Priority-Matrix- (https://github.com/devraj-mondal/Project-Priority-Matrix)
  
- 4.Scenario-Planning-tool-report-(https://github.com/devraj-mondal/Scenario-Planning-tool-report)
+4.Scenario-Planning-tool-report-(https://github.com/devraj-mondal/Scenario-Planning-tool-report)
  
  
  <p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" alt="PowerBI" width="40" height="40"/> </a>POWER BI PROJECTS </p> 
+ 
 1. Business Insights-360-Project
  (https://github.com/devraj-mondal/Power-Bi-BI-360-project)
 
