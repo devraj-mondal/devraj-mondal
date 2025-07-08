@@ -20,15 +20,11 @@
 1. Business Insights-360-Project
  (https://github.com/devraj-mondal/Power-Bi-BI-360-project)
 
-
-
 2. Atliq Grand Hospitality Project
 (https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project)
 
-
-
-3.Telecom 5g Project
-https://github.com/devraj-mondal/Telecom-5g-Project
+3. Telecom 5g Project
+(https://github.com/devraj-mondal/Telecom-5g-Project)
 
 <p align="left"> <a href="https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.SQL.com%2F%3FnoSignUpCheck%3D1" target="_blank" rel="noreferrer"> <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*eJFj0s7wgJVW030Q.gif" alt="SQL" width="40" height="40"/> </a> </p> </a>SQL PROJECTS </p> 
 1.Consumer Goods Ad-HOC Insights
