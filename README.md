@@ -20,6 +20,7 @@
 1. Business Insights-360-Project
  (https://github.com/devraj-mondal/Power-Bi-BI-360-project)
 
+
 2. Atliq Grand Hospitality Project
 (https://github.com/devraj-mondal/Atliq-Grand-Hospitality-Project)
 
